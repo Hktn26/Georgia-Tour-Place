@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Georgia-Tour-Place/static/css/main.434a4070.css",
+    "main.js": "/Georgia-Tour-Place/static/js/main.8f90e09b.js",
+    "index.html": "/Georgia-Tour-Place/index.html",
+    "main.434a4070.css.map": "/Georgia-Tour-Place/static/css/main.434a4070.css.map",
+    "main.8f90e09b.js.map": "/Georgia-Tour-Place/static/js/main.8f90e09b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434a4070.css",
+    "static/js/main.8f90e09b.js"
+  ]
+}
